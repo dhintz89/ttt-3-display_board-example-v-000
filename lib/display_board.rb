@@ -4,3 +4,5 @@ def display_board
   separator = "-----------"
   print row,separator,row,separator,row
 end
+
+display board
