@@ -2,7 +2,7 @@
 def display_board
   row = "   |   |   "
   separator = "-----------"
-  print row,separator,row,separator,row
+  puts row,separator,row,separator,row
 end
 
-display board
+display_board
